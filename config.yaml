@@ -6,6 +6,6 @@ scylladb:
 
 redis:
   enabled: false
-  host: 10.128.0.13:6379
+  host: 10.128.0.16:6379 
   password: password
   database: 0
