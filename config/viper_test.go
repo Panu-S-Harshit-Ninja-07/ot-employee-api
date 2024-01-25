@@ -15,7 +15,7 @@ func TestReadConfigAndProperty(t *testing.T) {
 			Password: "password",
 		},
 		Redis: model.Redis{
-			Host:     "10.128.0.13:6379",
+			Host:     "10.128.0.16:6379",
 			Password: "",
 			Database: 0,
 			Enabled:  false,
